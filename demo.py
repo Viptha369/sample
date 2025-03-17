@@ -7,5 +7,6 @@ def subtract(int:a, int:b):
 addition=add(5,3)
 addition
 
-subtraction=subtract(5,3)
+subtraction=subtract(15,3)
+
 subtraction
